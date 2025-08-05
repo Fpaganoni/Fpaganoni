@@ -26,9 +26,3 @@
 - [**E-commerce with Next.js**](https://github.com/yourusername/project1) – Full-featured online store with product management, authentication, and payment integration.
 - [**Tattoo Booking App**](https://github.com/yourusername/project2) – Web platform for tattoo appointments, including scheduling, user profiles, and admin dashboard.
 - [**Personal Portfolio**](https://github.com/yourusername/project3) – Responsive portfolio website built with React and Tailwind CSS.
-
----
-
-## 📊 GitHub Stats
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyon
