@@ -1,7 +1,7 @@
 # Hi there, I'm Franco 👋
 
 💻 **Full-Stack Web Developer** since 2022  
-🚀 Skilled in JavaScript, TypeScript, React, Next.js, Node.js, Express, TypeORM, PostgreSQL, MongoDB  
+🚀 Skilled in JavaScript, TypeScript, React, Next.js, Zustand, TanStack Query, Node.js, Express, TypeORM, PostgreSQL, MongoDB  
 🎯 Passionate about building scalable web solutions, UI/UX design, and continuous learning  
 🏑 Field hockey player with a competitive background  
 
@@ -19,6 +19,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)
 
 ---
 
