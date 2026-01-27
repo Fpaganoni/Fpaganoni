@@ -1,9 +1,8 @@
 # Hi there, I'm Franco 👋
 
 💻 **Full-Stack Web Developer** since 2022  
-🚀 Skilled in JavaScript, TypeScript, React, Next.js, Zustand, TanStack Query, Node.js, Express, TypeORM, PostgreSQL, MongoDB  
-🎯 Passionate about building scalable web solutions, UI/UX design, and continuous learning  
-🏑 Field hockey player with a competitive background  
+🚀 Skilled in JavaScript, TypeScript, React, Next.js, Zustand, TanStack Query, Tailwind, Node.js, Express, TypeORM, PostgreSQL, MongoDB  
+🎯 Passionate about building scalable web solutions, seamless user interfaces, UI/UX design, and continuous learning...  
 
 ---
 
@@ -12,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
@@ -25,6 +25,7 @@
 ---
 
 ## 📂 Featured Projects
-- [**E-commerce with Next.js**](https://github.com/yourusername/project1) – Full-featured online store with product management, authentication, and payment integration.
-- [**Tattoo Booking App**](https://github.com/yourusername/project2) – Web platform for tattoo appointments, including scheduling, user profiles, and admin dashboard.
-- [**Personal Portfolio**](https://github.com/yourusername/project3) – Responsive portfolio website built with React and Tailwind CSS.
+- [**Hockey Social Network**] – Professional networking platform for field hockey community with social features, user profiles, job board, and real-time interactions. Stack: Next.js, TypeScript, GraphQL, Prisma, TanStack Query.
+- [**Personal Portfolio**] – Responsive portfolio website built with React and Tailwind CSS.
+- [**E-commerce with Next.js**] – Full-featured online store with product management, authentication, and payment integration.
+- [**Tattoo Booking App**] – Web platform for tattoo appointments, including scheduling, user profiles, and admin dashboard.
